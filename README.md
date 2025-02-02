@@ -1,0 +1,2 @@
+# Losum
+Personal Notes
