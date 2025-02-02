@@ -1,4 +1,5 @@
 # Losum
+
 རུ་སྤོ་བའི་འབྲོག་པ།
 
 ཨེ་རི་ཁ · R · ཝོ་ཧྥུ།
@@ -23,6 +24,3 @@
 STEENSGARD, NIELS 1973. Carracks, Caravans, and Companies: The Structural Crisis in the European-Asian Trade in the Early 17th Century. Monograph Series, Vol. 17. Copenhagen: Scandinavian Institute of Asian Studies.
 
 TEGGART, FREDERICK J. 1939. Rome and China: A Study of Correlations in Historical Events. Berkeley and Los Angeles: University of California Press.
- 
-
-
