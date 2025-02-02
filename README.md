@@ -1,2 +1,2 @@
-# ལོ་གསུམ།
+# Losum
 Personal Notes
