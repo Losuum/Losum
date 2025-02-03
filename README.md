@@ -1,5 +1,30 @@
 # Losum
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Losum 的博客</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 头部 -->
+    <header>
+        <h1>ལོ་གསུམ་འཕྲིན་སྟེགས་སུ་ཕེབས་པར་དགའ་བསུ་ཞུ།/h1>
+        <nav>
+            <ul>
+                <li><a href="/">མདུན་ངོས།</a></li>
+                <li><a href="/about.html">ངོ་སྤྲོད།</a></li>
+                <li><a href="/articles.html">བརྩམ་བྱ།</a></li>
+                <li><a href="/contact.html">འབྲེལ་གཏུགས།</a></li>
+            </ul>
+        </nav>
+    </header>
+
+</body>
+</html>
+
 རུ་སྤོ་བའི་འབྲོག་པ།
 
 ཨེ་རི་ཁ · R · ཝོ་ཧྥུ།
