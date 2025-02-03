@@ -1,5 +1,6 @@
 # ལོ་གསུམ།
 
+<!DOCTYPE html>
 <html lang="TB">
 <head>
     <meta charset="UTF-8">
@@ -18,10 +19,6 @@
                 <li><a href="/contact.html">འབྲེལ་གཏུགས།</a></li>
             </ul>
         </nav>
-    </header>
-
-</body>
-</html>
 
 རུ་སྤོ་བའི་འབྲོག་པ།
 
